@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title></title>
+
+</head>
+<body>
+	
+	<h1><center>My name is Nurfaraziela binti Rashid</center></h1>
+    <font color="blue">
+    <p><i>I was born and raised in Perlis, Malaysia</i></p>
+    <p><i>I love Listening to music and watching kdrama</i></p>
+    <p><i>That's what i like to do during my free time</i></p>
+    <br1>
+    <font color="black">
+    <p><center><b>I really hope i can achieve everything i want to do in my life and be able to make people around me happy</b></center></p>
+    
+</body>
+</html>
